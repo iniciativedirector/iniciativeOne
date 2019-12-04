@@ -1,5 +1,5 @@
-# Aqui vai um título like a H1
+# Aqui vai um tÃ­tulo like a H1
 
-![./trampo.jpg](Manutencao)
+![](trampo.jpg)
 
-Este repositório é um teste, para aprender os comandos go git
+Este repositÃ³rio Ã© um teste, para aprender os comandos go git
